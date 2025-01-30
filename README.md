@@ -1,1 +1,1 @@
-# Banking-System-in-OOP-Concept
+This C++ Object-Oriented program allows users to manage bank accounts by creating, logging in, depositing, withdrawing, and deleting accounts. It supports Savings and Current accounts, with Savings earning interest. User details, including encrypted passwords, are securely stored in files. This project demonstrates key C++ concepts such as OOP, file handling, and data security, providing a simple yet secure solution for managing bank accounts.
